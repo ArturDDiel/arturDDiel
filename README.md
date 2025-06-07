@@ -26,5 +26,5 @@
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=arturDDiel&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturDDiel&layout=compact&theme=radical" height="160" />
