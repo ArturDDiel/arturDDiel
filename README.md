@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Artur
+# 👋 Olá, eu sou o Artur 
 
 💻 Desenvolvedor Front-end apaixonado por tecnologia, automação e experiências digitais  
 🚀 Especialista em sistemas com JavaScript moderno e Next.js  
