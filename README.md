@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Artur
 
-<!--
-**ArturDDiel/arturDDiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end apaixonado por tecnologia, automação e experiências digitais  
+🚀 Especialista em sistemas com JavaScript moderno e Next.js  
+🧠 Em constante evolução: MongoDB, automações web, dashboards e e-commerce
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat&logo=vercel&logoColor=fff)
+
+---
+
+## 📫 Contato
+
+- Email: [arturdanieldiel@email.com](mailto:arturdanieldiel@email.com)
+
+---
+
+## 📊 Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" height="160" />
