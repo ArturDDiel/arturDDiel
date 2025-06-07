@@ -15,16 +15,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat&logo=vercel&logoColor=fff)
-
----
-
-## 📫 Contato
-
-- Email: [arturdanieldiel@email.com](mailto:arturdanieldiel@email.com)
-
----
-
-## 📊 Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=arturDDiel&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturDDiel&layout=compact&theme=radical" height="160" />
